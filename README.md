@@ -38,4 +38,4 @@ Other Helpful Links --
 Who Maintains This Project --
   
   For this specific code I am the only contributer and editor, but please feel free to send suggestions and comments.
-  If you want to collaborate send me an email at the address on my profile page. 
+  If you want to collaborate go to my link on my profile page and you'll find my email at the bottom of that page.
