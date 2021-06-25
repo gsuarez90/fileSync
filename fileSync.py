@@ -15,9 +15,9 @@ import smtplib #import smtp library
 from dirsync import sync #import sync from dirsync
 
 #declare your sms message details here
-From = "Burn In Lab"
+From = "yours"
 subject = "FileSync"
-To = "MODDYDAD"
+To = "theirs"
 body = "Your files have been synced."
 
 #create message
